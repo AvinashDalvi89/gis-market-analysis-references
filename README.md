@@ -7,6 +7,8 @@ This will include a list of references, news, or documents that talk about GIS m
 - https://dista.ai/blog/top-gis-trends/
 - https://www.linkedin.com/pulse/geographic-information-system-gis-market-exploring-xa4cf/
 - https://www.sgligis.com/gis-software-impact-on-indian-industries
+- https://www.financialexpress.com/opinion/geospatial-horizons-2024-trends-and-transformations-in-gis/3356554/
+- https://www.igenesys.com/genesys-blog/indias-geospatial-landscape-5-game-changing-trends-for-2024-1
 
 
 ## Learning resources
