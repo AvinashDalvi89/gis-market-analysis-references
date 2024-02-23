@@ -12,4 +12,4 @@ This will include a list of references, news, or documents that talk about GIS m
 
 
 ## Learning resources
-  TBD
+- Open source databases for spatial data - https://github.com/sacridini/Awesome-Geospatial?tab=readme-ov-file#database
