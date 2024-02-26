@@ -14,3 +14,6 @@ This will include a list of references, news, or documents that talk about GIS m
 ## Learning resources
 - Open source databases for spatial data - https://github.com/sacridini/Awesome-Geospatial?tab=readme-ov-file#database
 - https://www.linkedin.com/pulse/power-postgis-unlocking-secrets-success-vladimir-ovramenko/
+
+## Footprint of POSGIS usage 
+- https://stackoverflow.com/questions/63020402/why-does-open-street-maps-osm-use-postgresql-databases
